@@ -1,5 +1,7 @@
 # Friday Challenge: High scalable, high availible and secure Wordpress Website
 
+![](assets/arcitecture.png)
+
 ## Business Case:
 ## Scalable and Highly Available WordPress Hosting for a Company with Unpredictable Workloads
 
