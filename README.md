@@ -1,4 +1,6 @@
-# Business Case for the firday challenge:
+# Friday Challenge: High scalable, high availible and secure Wordpress Website
+
+## Business Case:
 ## Scalable and Highly Available WordPress Hosting for a Company with Unpredictable Workloads
 
 ### Executive Summary:
