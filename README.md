@@ -1,10 +1,9 @@
-# Friday Challenge: High scalable, high availible and secure Wordpress Website
-
-![](assets/arcitecture.png)
+# Friday Challenge:
 
 ## Business Case:
 ## Scalable and Highly Available WordPress Hosting for a Company with Unpredictable Workloads
 
+![](assets/arcitecture.png)
 ### Executive Summary:
 The company in question runs a WordPress site that experiences highly unpredictable workloads. It is crucial for the company's online presence, reputation, and data security to maintain website availability, optimal performance, and robust security during peak traffic periods. Implementing a secure, scalable, and highly available infrastructure on AWS will ensure that the website remains accessible, responsive, and protected against threats, even during unexpected spikes in traffic.
 
